@@ -1,0 +1,15 @@
+{
+  "name": "react-banking-dashboard",
+  "short_name": "BankDash",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#1fb6ff",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    }
+  ]
+}
